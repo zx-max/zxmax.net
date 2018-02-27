@@ -1,0 +1,7 @@
+* crud
+** crud per i post.
+ 	Entità:
+		post
+	 
+*** 	
+ *** h8
