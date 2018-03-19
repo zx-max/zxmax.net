@@ -2,6 +2,23 @@
 ** crud per i post.
  	Entità:
 		post
+
+** modifiche da fare
+ 1. modificare il componente net.zxmax.blog.components.Post 
+  in modo che carichi il contenuto del post tramite un servizio 
+  che leggerà i dati da db o altro sistema di persistenza.
+ 2. modificare la web app per inviare a back end l'id del post che si vuole visualizzare
+    e quindi tutto il giro di caricamento del contenuto del post in base all' id.
+ 2.1 riferimenti web da dove studiare
+    * http://tapestry.apache.org/page-navigation.html#PageNavigation-PageRenderRequests
+    * http://jumpstart.doublenegative.com.au/jumpstart/
+    
+    * gestire la situazione post non trovato.
+    
+  
+
 	 
-*** 	
- *** h8
+*** SISTEMA DI PERSISTENZA
+    *** h8
+    *** spring-jdbc
+    *** ibatis
