@@ -8,4 +8,7 @@
 *.iml
 
 
-# emacs temp 
+# emacs temp
+*~
+[#]*[#]
+.\#*
