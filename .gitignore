@@ -2,6 +2,7 @@
 .project
 .settings
 .svn
+*/target
 /target
 /build
 .idea
@@ -10,5 +11,5 @@
 
 # emacs temp
 *~
-[#]*[#]
+[#]*[#]		
 .\#*
